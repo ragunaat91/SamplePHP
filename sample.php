@@ -1,1 +1,3 @@
-echo "Sample code from GITHUB"
+<?php
+echo "Sample code from GITHUB";
+?>
